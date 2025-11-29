@@ -1,7 +1,7 @@
 # Nirmal Thambi — Portfolio Website
 
 ###  Live Demo
-https://nirmal-portfolio.netlify.app
+https://nirmalthambi.netlify.app
 
 ### 🛠 Tech Stack
 - React + Vite
