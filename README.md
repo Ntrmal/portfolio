@@ -3,7 +3,7 @@
 ###  Live Demo
 https://nirmalthambi.netlify.app
 
-### 🛠 Tech Stack
+###  Tech Stack
 - React + Vite
 - Framer Motion
 - Modern UI + Dark/Light mode + Chat widget
